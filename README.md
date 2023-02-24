@@ -1,14 +1,13 @@
-## Inleiding
-Welkom bij de derde huiswerkopdracht die jullie gaan maken voor de Backend leerlijn! Je hebt als het goed is hoofdstuk 2.7 t/m hoofdstuk 2.9 gelezen op EdHub en je hebt de derde les van de cursus Java gevolgd. In deze opdracht ga je oefenen met arrays, collecties en loops. Dit ga je doen door het maken van een nummer-vertaler.
+## Les 03
+### Versiebeheer 
+<kbd>0.0.0</kbd> Git aanmaken.
+### Doel en opdracht.
+Oefenen met arrays, collecties en loops door het maken van een nummer-vertaler.
 
-## Clonen van dit project
-1. Clone dit project naar je eigen computer door een nieuw project te maken met de optie `Project from version control` of `get from VCS`, zoals je in de git-workshop geleerd hebt.
-2. Ontkoppel de remote met `git remote remove origin`.
-3. Maak een nieuwe repository op je eigen github pagina en koppel die aan dit project met `git remote add origin [link naar jou github repo]`
-4. Zorg dat je main-branch ook echt "main" heet met `git branch -M main`.
-5. Push vervolgens je de (originele) main branch naar je eigen github met `git push -u origin main`.
-6. Maak nu een nieuwe huiswerk-branch aan om je huiswerk op te maken met `git checkout -b [naam van je nieuwe branch]`
-
+- [ ] Clonen van dit project
+- [ ] Nieuwe repository maken en koppelen, en eerste publicatie.
+- [ ] Huiswerk-tak maken.
+- [ ] Pushen naar huiswerk-tak.
 
 ## Opdrachtbeschrijving
 
@@ -17,7 +16,6 @@ Je gaat die getallen vertalen door gebruik te maken van een HashMap.
 Je zet de numerieke getallen als sleutel (key) en de alfabetische getallen als waarde (value) in de HashMap.
 Vervolgens vraag je de gebruiker om een input van 0 t/m 9 te geven en ga je dat "vertalen" door simpelweg de waarde uit de HashMap te vragen met de bijbehorende sleutel
 en dat terug te geven aan de gebruiker.
-
 
 ## Randvoorwaarden
 De opdracht moet voldoen aan de volgende voorwaarden:
